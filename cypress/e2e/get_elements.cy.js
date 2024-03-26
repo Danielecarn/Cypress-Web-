@@ -1,6 +1,6 @@
 
-describe('Login', () => {
-    it('Login com sucesso', () => {
+describe('Get Elements', () => {
+    it('Encontrar/Selecionar elementos', () => {
         cy.visit('/')
             .get('.mobile-menu-logo')  
 

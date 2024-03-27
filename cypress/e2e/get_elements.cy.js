@@ -1,3 +1,4 @@
+/// <reference types="cypress" />
 
 describe('Get Elements', () => {
     it('Encontrar/Selecionar elementos', () => {

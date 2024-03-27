@@ -1,3 +1,4 @@
+/// <reference types="cypress" />
 
 describe('Get texts', () => {
     it('Obter o texto de um elemento ', () => {
